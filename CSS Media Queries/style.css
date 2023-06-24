@@ -1,0 +1,14 @@
+/* css code goes here */
+@media (max-width: 600px) {
+  p {
+    font-size: 30px;
+    background-color: rgb(0, 0, 255);
+  }
+}
+
+@media (min-width: 601px) {
+  p {
+    font-size: 80px;
+    background-color: rgb(255, 0, 0);
+  }
+}
